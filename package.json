@@ -1,0 +1,19 @@
+{
+  "name": "mineflayer-boi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^4.3.0",
+    "mineflayer-collectblock": "^1.4.1",
+    "prismarine-viewer": "^1.23.0"
+  },
+  "devDependencies": {
+  }
+}
